@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Fast Delevery",
+        "images": "https://i.ibb.co/RHHdHjQ/adult-blur-blurred-background-687824.png",
+        "details": "Keep your systems in sync with automated web hook based notifications each time link is paid and how we dream about our future."
+    },
+    {
+        "id": 2,
+        "serviceName": "A Good Auto Responder",
+        "images": "https://i.ibb.co/H4BBF56/chef-cook-food-33614.png",
+        "details": "Keep your systems in sync with automated web hook based notifications each time link is paid and how we dream about our future."
+    },
+    {
+        "id": 3,
+        "serviceName": "Home Delevery",
+        "images": "https://i.ibb.co/2gV9yP0/architecture-building-city-2047397.png",
+        "details": "Keep your systems in sync with automated web hook based notifications each time link is paid and how we dream about our future."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Fried Rie with Meat Plater",
+        "price": 10.99,
+        "picture": "https://i.postimg.cc/XYhcHLWP/dinner1.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 2,
+        "name": "Fish with Vegitable Plater",
+        "price": 9.99,
+        "picture": "https://i.postimg.cc/J0PjbcKP/dinner2.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 3,
+        "name": "Peri Peri Egg and Vegitable Masala",
+        "price": 12.99,
+        "picture": "https://i.postimg.cc/nLB7dt0s/dinner3.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 4,
+        "name": "Glazed Salmon Kuchi Kuchi",
+        "price": 6.99,
+        "picture": "https://i.postimg.cc/KvWMxYWk/dinner4.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 5,
+        "name": "Cranchi Masala Bread Fruits",
+        "price": 9.99,
+        "picture": "https://i.postimg.cc/FzB7rPT5/dinner5.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 6,
+        "name": "Healthy Meal Seafood",
+        "price": 17.99,
+        "picture": "https://i.postimg.cc/sXfXpF8C/dinner6.png",
+        "information": "How we dream about our future"
+    }
+]

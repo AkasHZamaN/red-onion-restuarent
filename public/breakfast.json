@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Egg Omlet with Fried items",
+        "price": 3.99,
+        "picture": "https://i.ibb.co/VNyhQXP/breakfast1.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 2,
+        "name": "Bread and Fruits",
+        "price": 5.99,
+        "picture": "https://i.ibb.co/FmZBx09/breakfast2.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 3,
+        "name": "BBQ Honey Meat Masala",
+        "price": 13.99,
+        "picture": "https://i.ibb.co/B6gJTLs/breakfast3.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 4,
+        "name": "Vegitable with Bread",
+        "price": 8.99,
+        "picture": "https://i.ibb.co/Yp4gBjT/breakfast4.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 5,
+        "name": "Lentil Bhuna With Bread Pices",
+        "price": 9.99,
+        "picture": "https://i.ibb.co/WFLw6T2/breakfast5.png",
+        "information": "How we dream about our future"
+    },
+    {
+        "id": 6,
+        "name": "Healthy Meal in Breakfast",
+        "price": 20.99,
+        "picture": "https://i.ibb.co/Sywt35K/breakfast6.png",
+        "information": "How we dream about our future"
+    }
+]

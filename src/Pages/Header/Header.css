@@ -1,0 +1,18 @@
+#nav-content{
+    color: white;
+}
+#nav-content:hover{
+    color: crimson;
+    text-decoration: underline;
+}
+.header-bottom{
+    position: relative;
+    width: 100%;
+}
+.header-bottom .search-form{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
