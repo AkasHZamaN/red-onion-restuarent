@@ -3,7 +3,7 @@ import React from 'react';
 const Cart = () => {
     return (
         <div>
-            <h1>This is Cart Section</h1>
+            <h1>This is Cart Section.</h1>
         </div>
     );
 };

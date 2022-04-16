@@ -1,9 +1,16 @@
 import { ShoppingCartIcon } from "@heroicons/react/solid";
 import React from "react";
 import { Button, Card } from "react-bootstrap";
+import { useNavigate } from "react-router-dom";
 
 const LaunchFood = ({ launchFood }) => {
-  const { name, picture, price, information } = launchFood;
+    const navigate = useNavigate();
+  const {id, name, picture, price, information } = launchFood;
+
+    const buyNowFood = id => {
+        navigate(`/launchFood/${id}`);
+    }
+
   return (
     <section>
       <article>
@@ -13,7 +20,7 @@ const LaunchFood = ({ launchFood }) => {
             <Card.Title>{name}</Card.Title>
             <p>${price}</p>
             <Card.Text>{information}</Card.Text>
-            <Button variant="success opacity-75 rounded-3 w-100">
+            <Button onClick={() => buyNowFood(id)} variant="success opacity-75 rounded-3 w-100">
               <ShoppingCartIcon
                 style={{ wide: "15px", height: "25px" }}
               ></ShoppingCartIcon>{" "}

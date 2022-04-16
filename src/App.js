@@ -10,6 +10,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Breakfast from './Pages/Food/Breakfast/Breakfast';
 import Launch from './Pages/Food/Launch/Launch';
 import Dinner from './Pages/Food/Dinner/Dinner';
+import Footer from './Pages/Footer/Footer';
+import SingleFood from './Pages/Home/SingleFood/SingleFood';
 
 function App() {
   return (
@@ -22,10 +24,11 @@ function App() {
         <Route path='/register' element={<Register></Register>}></Route>
         <Route path='/breakfast' element={<Breakfast></Breakfast>}></Route>
         <Route path='/launch' element={<Launch></Launch>}></Route>
+        <Route path='/launchFood/:foodId' element={<SingleFood></SingleFood>}></Route>
         <Route path='/dinner' element={<Dinner></Dinner>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
-      
+      <Footer></Footer>
     </div>
   );
 }
